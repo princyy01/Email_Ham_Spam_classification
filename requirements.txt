@@ -1,0 +1,8 @@
+#name of the libraries which we used in our model are listed in this file
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imblearn
+flask
